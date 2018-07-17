@@ -123,15 +123,15 @@ blockquote {
 /*Headers*/
 header {
 	padding: 50px 175px;
-	background-color: #101010;
-	color: #303030;
+	background-color: #ffffff;
+	color: #ffffff;
 }
 .header-fruit {
-	background-color: #101010;
+	background-color: #ffffff;
 	background-image: url("images/doxorubicin.png");
 	background-position: right center;
 	background-
-	color: #303030;
+	color: #ffffff;
 	background-size: cover;
 }
 
