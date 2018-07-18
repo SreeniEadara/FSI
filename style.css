@@ -125,13 +125,14 @@ header {
 	padding: 50px 175px;
 	background-color: #ffffff;
 	color: #ffffff;
+header img {
+		background-color: white;
 }
 .header-fruit {
 	background-color: #ffffff;
 	background-image: url("images/doxorubicin.png");
 	background-position: right center;
-	background-
-	color: #ffffff;
+	background-color: #ffffff;
 	background-size: cover;
 }
 
