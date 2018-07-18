@@ -126,7 +126,8 @@ header {
 	background-color: #ffffff;
 	color: #ffffff;
 header img {
-		background-color: white;
+	background-color: white;
+	border: 2.5px solid #dc143c;
 }
 .header-fruit {
 	background-color: #ffffff;
