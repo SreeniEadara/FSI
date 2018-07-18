@@ -33,7 +33,7 @@ form {
 }
 input, select, option {
 	padding: 5px;
-	border: 1px solid #dc143c;
+	border: 1px solid #660000;
 	border-radius: 0;
 	box-sizing: border-box;
 	width: 100%;
@@ -47,7 +47,7 @@ input.large-text {
 	line-height: 100px;
 }
 select {
-	background-color: #dc143c;
+	background-color: #660000;
 	color: white;
 	border: 1px solid white;
 }
@@ -70,11 +70,11 @@ input[type = "submit"]:hover {
 blockquote {
 	margin: 10px;
 	padding-left: 10px;
-	border-left: 5px solid #dc143c;
+	border-left: 5px solid #660000;
 }
 /*Navigation*/
 .nav {
-	background-color: #dc143c;
+	background-color: #660000;
 	padding: 0 150px;
 	position: sticky;
 	top: -1px;
@@ -107,9 +107,9 @@ blockquote {
 .dropdown .content {
 	display: none;
 	position: absolute;
-	background-color: #dc143c;
+	background-color: #660000;
 	color: white;
-	border: 3px solid #dc143c;
+	border: 3px solid #660000;
 	min-width: 125px;
 }
 .dropdown .content a {
@@ -161,11 +161,11 @@ header {
 	color: #0a5b86;
 }
 .white .button:hover {
-	background-color: #dc143c;
+	background-color: #660000;
 	color: white;
 }
 .blue {
-	background-color: #dc143c;
+	background-color: #660000;
 	color: white;
 }
 .blue .button {
@@ -174,15 +174,15 @@ header {
 }
 .blue .button:hover {
 	background-color: white;
-	color: #dc143c;
+	color: #660000;
 }
 
 /*Footer*/
 footer {
-	border-top: 5px solid #dc143c;
+	border-top: 5px solid #660000;
 	padding: 10px 175px;
 	background-color: white;
-	color: #dc143c;
+	color: #660000;
 	text-align: center;
 }
 footer * {
@@ -299,7 +299,7 @@ footer a:hover {
 	}
 	header img {
 		background-color: white;
-		border: 2.5px solid #dc143c;
+		border: 2.5px solid #660000;
 	}
 	.half {
 		width: 95%;
@@ -317,7 +317,7 @@ footer a:hover {
 	.dropdown .content {
 		display: block;
 		position: initial;
-		background-color: #00426D;
+		background-color: #dc143c;
 		margin: 0;
 		padding: 0;
 	}
